@@ -1,11 +1,10 @@
+Developed by    : CHITTOOR SARAVANA MRUDHULA 
+
+Register number : 212224040056
+
+
 # Fitting Poisson  distribution
 
-```
-Developed by    : CHITTOOR SARAVANA MRUDHULA 
-Register number : 212224040056
-Department      : B.E.(CSE)
-```
- 
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
